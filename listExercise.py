@@ -27,7 +27,32 @@ del cheeses[0:1]
 print(cheeses)
 
 # difference between list and string
+
 string_to_test = "Samrat"
 t = list(string_to_test)
 print(t)
 
+# playing with lines from a text file and printing only emails
+
+fileopen = 1
+try:
+    fhand = open("mbox-short.txt")
+except:
+    fileopen = -1
+if fileopen < 1:
+    print("Problem in Accessing the file")
+else:
+    for fline in fhand:
+        # fline = fline.rsplit()
+        if not fline.startswith("From:"):
+            continue
+        words = fline.split()
+        print(words[1])
+
+# Delete head from the list
+def delete_head(p):
+    del p[0]
+
+t = ["a", "b", "c"]
+delete_head(t)
+print(t)

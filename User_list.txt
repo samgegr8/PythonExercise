@@ -1,0 +1,469 @@
+{
+    "UserSummaryList": [
+        {
+            "Id": "00eeb0de-e8d8-4b65-8a11-5b8bcbd99ff9",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/00eeb0de-e8d8-4b65-8a11-5b8bcbd99ff9",
+            "Username": "emma@netwealth.com.au"
+        },
+        {
+            "Id": "0883c1cd-be1f-4c71-8141-d1f4d9ee5bff",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/0883c1cd-be1f-4c71-8141-d1f4d9ee5bff",
+            "Username": "williamz@netwealth.com.au"
+        },
+        {
+            "Id": "0d0ab5e0-4cb6-4c27-921f-df9e5ba6eec5",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/0d0ab5e0-4cb6-4c27-921f-df9e5ba6eec5",
+            "Username": "callum@netwealth.com.au"
+        },
+        {
+            "Id": "0f183c70-c71a-4ec2-891f-1720cfea8de6",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/0f183c70-c71a-4ec2-891f-1720cfea8de6",
+            "Username": "anu@netwealth.com.au"
+        },
+        {
+            "Id": "1049519a-69e2-4034-a344-375838135989",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/1049519a-69e2-4034-a344-375838135989",
+            "Username": "roberte@netwealth.com.au"
+        },
+        {
+            "Id": "13c0445a-3403-41ec-94b6-eefe768f1799",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/13c0445a-3403-41ec-94b6-eefe768f1799",
+            "Username": "caylee@netwealth.com.au"
+        },
+        {
+            "Id": "160c6406-e5a6-4d27-b575-d1142940b6f0",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/160c6406-e5a6-4d27-b575-d1142940b6f0",
+            "Username": "robertt@netwealth.com.au"
+        },
+        {
+            "Id": "17f58591-ebc5-40db-a82b-666b9830ac2e",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/17f58591-ebc5-40db-a82b-666b9830ac2e",
+            "Username": "Alec@netwealth.com.au"
+        },
+        {
+            "Id": "1b6ba536-3bae-4630-bfef-2d135a107d98",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/1b6ba536-3bae-4630-bfef-2d135a107d98",
+            "Username": "dimitri@netwealth.com.au"
+        },
+        {
+            "Id": "1f970fb6-cb88-4729-9329-a975cc189754",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/1f970fb6-cb88-4729-9329-a975cc189754",
+            "Username": "paige@netwealth.com.au"
+        },
+        {
+            "Id": "2071f18d-0df4-4e6a-913b-18ec6958f9a0",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/2071f18d-0df4-4e6a-913b-18ec6958f9a0",
+            "Username": "anthony@netwealth.com.au"
+        },
+        {
+            "Id": "28f78faa-6c7f-4dbc-8b9f-2e0146826d09",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/28f78faa-6c7f-4dbc-8b9f-2e0146826d09",
+            "Username": "abdullah@netwealth.com.au"
+        },
+        {
+            "Id": "2f14572a-920f-4037-9249-0c4cd5e39d17",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/2f14572a-920f-4037-9249-0c4cd5e39d17",
+            "Username": "katherineg@netwealth.com.au"
+        },
+        {
+            "Id": "3566f52c-b6ce-4c43-9515-45e46f6b5eb2",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/3566f52c-b6ce-4c43-9515-45e46f6b5eb2",
+            "Username": "richardr@netwealth.com.au"
+        },
+        {
+            "Id": "36232a57-b690-4f7e-9919-d5c475a7cee2",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/36232a57-b690-4f7e-9919-d5c475a7cee2",
+            "Username": "silvia@netwealth.com.au"
+        },
+        {
+            "Id": "37d1dbc1-97da-4cc6-a9e3-2be95fd9528b",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/37d1dbc1-97da-4cc6-a9e3-2be95fd9528b",
+            "Username": "melike@netwealth.com.au"
+        },
+        {
+            "Id": "38eb506a-1295-487d-8f02-e8487f6dd2af",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/38eb506a-1295-487d-8f02-e8487f6dd2af",
+            "Username": "jsmith@acompany.com.au"
+        },
+        {
+            "Id": "395f60c7-099b-4c9e-be38-5a367bcede9d",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/395f60c7-099b-4c9e-be38-5a367bcede9d",
+            "Username": "barry@netwealth.com.au"
+        },
+        {
+            "Id": "3d621ffd-b9be-4f75-9fe0-f1b174a5a480",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/3d621ffd-b9be-4f75-9fe0-f1b174a5a480",
+            "Username": "ilyas@netwealth.com.au"
+        },
+        {
+            "Id": "4088106b-3222-4f7f-b58f-8fe7b296d1a5",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/4088106b-3222-4f7f-b58f-8fe7b296d1a5",
+            "Username": "emmad@netwealth.com.au"
+        },
+        {
+            "Id": "40ce54bb-6157-4a6b-9fe5-638a567f3be0",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/40ce54bb-6157-4a6b-9fe5-638a567f3be0",
+            "Username": "zachary@netwealth.com.au"
+        },
+        {
+            "Id": "42fa4aa8-5b9a-429d-ae14-65042d5207c5",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/42fa4aa8-5b9a-429d-ae14-65042d5207c5",
+            "Username": "simon@netwealth.com.au"
+        },
+        {
+            "Id": "453859e5-945b-4def-82ca-cb7dc6bb8b70",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/453859e5-945b-4def-82ca-cb7dc6bb8b70",
+            "Username": "madeleine@netwealth.com.au"
+        },
+        {
+            "Id": "47115626-81eb-469a-bcce-f7834127b77d",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/47115626-81eb-469a-bcce-f7834127b77d",
+            "Username": "siobhan@netwealth.com.au"
+        },
+        {
+            "Id": "4afe5152-5ecd-468c-93ff-da1b920e91f2",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/4afe5152-5ecd-468c-93ff-da1b920e91f2",
+            "Username": "trevor@netwealth.com.au"
+        },
+        {
+            "Id": "4ba4a15a-f1cc-4464-b8b2-dbda57adbe0a",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/4ba4a15a-f1cc-4464-b8b2-dbda57adbe0a",
+            "Username": "meshini@netwealth.com.au"
+        },
+        {
+            "Id": "50d27687-7de2-4daa-815f-4575545c95d4",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/50d27687-7de2-4daa-815f-4575545c95d4",
+            "Username": "kate@netwealth.com.au"
+        },
+        {
+            "Id": "5191fc6d-58d5-43a2-b5a0-f55c7eec2da5",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/5191fc6d-58d5-43a2-b5a0-f55c7eec2da5",
+            "Username": "jessicak@netwealth.com.au"
+        },
+        {
+            "Id": "5495dabf-e3ea-491a-881a-5e08017151e7",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/5495dabf-e3ea-491a-881a-5e08017151e7",
+            "Username": "davids@netwealth.com.au"
+        },
+        {
+            "Id": "588c7894-0904-407d-b856-da3ef209a52a",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/588c7894-0904-407d-b856-da3ef209a52a",
+            "Username": "mariai@netwealth.com.au"
+        },
+        {
+            "Id": "591c7a0a-8b9d-42df-9d65-d945aa0f4efc",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/591c7a0a-8b9d-42df-9d65-d945aa0f4efc",
+            "Username": "courtney@netwealth.com.au"
+        },
+        {
+            "Id": "59acb30e-02e2-4e8c-be1d-c3c7bc90f6fa",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/59acb30e-02e2-4e8c-be1d-c3c7bc90f6fa",
+            "Username": "denford@netwealth.com.au"
+        },
+        {
+            "Id": "5d0e7e82-030a-454a-baf3-1ad74d562d79",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/5d0e7e82-030a-454a-baf3-1ad74d562d79",
+            "Username": "darja@netwealth.com.au"
+        },
+        {
+            "Id": "5f1aef1a-7f96-46eb-a648-937516fe2b16",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/5f1aef1a-7f96-46eb-a648-937516fe2b16",
+            "Username": "vicky@netwealth.com.au"
+        },
+        {
+            "Id": "60bffd31-c32e-464f-9b87-b1091a3cfc8d",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/60bffd31-c32e-464f-9b87-b1091a3cfc8d",
+            "Username": "dcooke@netwealth.com.au"
+        },
+        {
+            "Id": "62a8ed60-c7a9-4049-b17a-9bd4b84e9f4b",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/62a8ed60-c7a9-4049-b17a-9bd4b84e9f4b",
+            "Username": "rose@netwealth.com.au"
+        },
+        {
+            "Id": "63968d23-e451-417c-84fb-bac9dfd294d0",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/63968d23-e451-417c-84fb-bac9dfd294d0",
+            "Username": "brad@netwealth.com.au"
+        },
+        {
+            "Id": "640e28c8-c98b-488c-8669-a009fdc4e846",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/640e28c8-c98b-488c-8669-a009fdc4e846",
+            "Username": "channing@netwealth.com.au"
+        },
+        {
+            "Id": "68f16a0f-e503-4e71-9a38-4632faf26025",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/68f16a0f-e503-4e71-9a38-4632faf26025",
+            "Username": "benf@netwealth.com.au"
+        },
+        {
+            "Id": "6be7afcf-00c6-4bea-ae02-d780683f142a",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/6be7afcf-00c6-4bea-ae02-d780683f142a",
+            "Username": "michaela@netwealth.com.au"
+        },
+        {
+            "Id": "6fe09591-cf7e-43f6-a989-3fbca6d67498",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/6fe09591-cf7e-43f6-a989-3fbca6d67498",
+            "Username": "chea@netwealth.com.au"
+        },
+        {
+            "Id": "70ab55a8-b3dc-4dfa-8eca-d2f50611bf1a",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/70ab55a8-b3dc-4dfa-8eca-d2f50611bf1a",
+            "Username": "natasha@netwealth.com.au"
+        },
+        {
+            "Id": "70fc8e48-5c92-434c-8ce2-a9fae1fc8eaa",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/70fc8e48-5c92-434c-8ce2-a9fae1fc8eaa",
+            "Username": "akuropatkin@netwealth.com.au"
+        },
+        {
+            "Id": "76f24342-2d80-4bf4-9a8c-1c2c799dc010",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/76f24342-2d80-4bf4-9a8c-1c2c799dc010",
+            "Username": "andy@netwealth.com.au"
+        },
+        {
+            "Id": "872bce7f-f896-4a4a-87d3-c90d1de42733",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/872bce7f-f896-4a4a-87d3-c90d1de42733",
+            "Username": "joelle@netwealth.com.au"
+        },
+        {
+            "Id": "891a66fd-3aee-4abd-9a0e-16b820bee5a0",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/891a66fd-3aee-4abd-9a0e-16b820bee5a0",
+            "Username": "neeli@netwealth.com.au"
+        },
+        {
+            "Id": "8aee2833-9681-4f1c-80f7-7559e063eaf7",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/8aee2833-9681-4f1c-80f7-7559e063eaf7",
+            "Username": "kyle@netwealth.com.au"
+        },
+        {
+            "Id": "8be5566f-8e67-467e-9ac2-8d4ffaff4da5",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/8be5566f-8e67-467e-9ac2-8d4ffaff4da5",
+            "Username": "danap@netwealth.com.au"
+        },
+        {
+            "Id": "92ccad01-4a49-4465-acc7-87b70161f94a",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/92ccad01-4a49-4465-acc7-87b70161f94a",
+            "Username": "aimee@netwealth.com.au"
+        },
+        {
+            "Id": "946fc6cd-d990-443b-b20d-d6dafb5e52c4",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/946fc6cd-d990-443b-b20d-d6dafb5e52c4",
+            "Username": "​Giulia@netwealth.com.au"
+        },
+        {
+            "Id": "97a1c649-666a-4501-98a9-30416ce4280c",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/97a1c649-666a-4501-98a9-30416ce4280c",
+            "Username": "charlie@netwealth.com.au"
+        },
+        {
+            "Id": "98f419cd-5eca-46da-a4f2-0181afefa919",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/98f419cd-5eca-46da-a4f2-0181afefa919",
+            "Username": "nuo@netwealth.com.au"
+        },
+        {
+            "Id": "99f78bea-ff7c-44d3-ac5f-3372a85ebd73",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/99f78bea-ff7c-44d3-ac5f-3372a85ebd73",
+            "Username": "nicolem@netwealth.com.au"
+        },
+        {
+            "Id": "9a966687-3a00-4c92-a0ed-6310edec2334",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/9a966687-3a00-4c92-a0ed-6310edec2334",
+            "Username": "sarah@netwealth.com.au"
+        },
+        {
+            "Id": "9b15f966-f9ad-400b-a011-2a53d4f6b3e4",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/9b15f966-f9ad-400b-a011-2a53d4f6b3e4",
+            "Username": "Olivia@netwealth.com.au"
+        },
+        {
+            "Id": "9e3be1da-0912-4900-bf94-2796352daa07",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/9e3be1da-0912-4900-bf94-2796352daa07",
+            "Username": "cameroncu@netwealth.com.au"
+        },
+        {
+            "Id": "9e66a6da-3df7-4a23-9be7-de208e05ae72",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/9e66a6da-3df7-4a23-9be7-de208e05ae72",
+            "Username": "madison@netwealth.com.au"
+        },
+        {
+            "Id": "a274a5d4-52cb-481c-9812-4f0fe5d5d342",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/a274a5d4-52cb-481c-9812-4f0fe5d5d342",
+            "Username": "BenR@netwealth.com.au"
+        },
+        {
+            "Id": "a67bd339-bc57-4d26-b3c6-0678a6de6123",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/a67bd339-bc57-4d26-b3c6-0678a6de6123",
+            "Username": "maryq@netwealth.com.au"
+        },
+        {
+            "Id": "ab7a0fc4-97d6-4313-bac7-1d280320ee0d",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/ab7a0fc4-97d6-4313-bac7-1d280320ee0d",
+            "Username": "williamn@netwealth.com.au"
+        },
+        {
+            "Id": "adcafa65-3c4e-43c5-934b-67b6524eeffc",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/adcafa65-3c4e-43c5-934b-67b6524eeffc",
+            "Username": "zalman@netwealth.com.au"
+        },
+        {
+            "Id": "b3815fde-a21c-46df-a8c6-55b9a7f35bf1",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/b3815fde-a21c-46df-a8c6-55b9a7f35bf1",
+            "Username": "antonia@netwealth.com.au"
+        },
+        {
+            "Id": "b58fa6c1-8956-4ddf-9208-cae48cd8c8dd",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/b58fa6c1-8956-4ddf-9208-cae48cd8c8dd",
+            "Username": "matthewm@netwealth.com.au"
+        },
+        {
+            "Id": "b79fe2ac-ac9e-4d64-908a-f5eadd265c30",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/b79fe2ac-ac9e-4d64-908a-f5eadd265c30",
+            "Username": "alexc@netwealth.com.au"
+        },
+        {
+            "Id": "ba1d0583-ca2d-42f7-bbf9-ec0f6ea8f8d0",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/ba1d0583-ca2d-42f7-bbf9-ec0f6ea8f8d0",
+            "Username": "chloe@netwealth.com.au"
+        },
+        {
+            "Id": "bd78ea24-5909-4ffb-b2c2-016280c250bf",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/bd78ea24-5909-4ffb-b2c2-016280c250bf",
+            "Username": "olivier@netwealth.com.au"
+        },
+        {
+            "Id": "bd7ccd7b-db1c-40e3-93c6-0d2c9ccb22a4",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/bd7ccd7b-db1c-40e3-93c6-0d2c9ccb22a4",
+            "Username": "gina@netwealth.com.au"
+        },
+        {
+            "Id": "bf4089b5-b263-4786-ab29-2e705b873fd8",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/bf4089b5-b263-4786-ab29-2e705b873fd8",
+            "Username": "shae@netwealth.com.au"
+        },
+        {
+            "Id": "c17a2d6f-100b-4720-b47d-5594f59ad23a",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/c17a2d6f-100b-4720-b47d-5594f59ad23a",
+            "Username": "josh@netwealth.com.au"
+        },
+        {
+            "Id": "c26360fa-ae8a-4789-a11b-7851aa5fa895",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/c26360fa-ae8a-4789-a11b-7851aa5fa895",
+            "Username": "maryanne@netwealth.com.au"
+        },
+        {
+            "Id": "c5bc5c55-6264-4703-a73f-99377f217a52",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/c5bc5c55-6264-4703-a73f-99377f217a52",
+            "Username": "sue@netwealth.com.au"
+        },
+        {
+            "Id": "ca2dee95-11cd-4917-bcf0-83d585659869",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/ca2dee95-11cd-4917-bcf0-83d585659869",
+            "Username": "amanda@netwealth.com.au"
+        },
+        {
+            "Id": "cc51f435-5739-4056-b4f5-432471494c42",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/cc51f435-5739-4056-b4f5-432471494c42",
+            "Username": "edward@netwealth.com.au"
+        },
+        {
+            "Id": "ce2703cf-c79b-427b-8e5f-755574c8afc3",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/ce2703cf-c79b-427b-8e5f-755574c8afc3",
+            "Username": "danielc@netwealth.com.au"
+        },
+        {
+            "Id": "d4c582a6-fa5b-4f92-8723-a04f2203e7df",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/d4c582a6-fa5b-4f92-8723-a04f2203e7df",
+            "Username": "frank@netwealth.com.au"
+        },
+        {
+            "Id": "d51f4ff9-e908-43e7-a88b-36284376cf1b",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/d51f4ff9-e908-43e7-a88b-36284376cf1b",
+            "Username": "michaels@netwealth.com.au"
+        },
+        {
+            "Id": "d5651480-a872-4bb5-a8cc-608c0414bb9e",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/d5651480-a872-4bb5-a8cc-608c0414bb9e",
+            "Username": "xavier@netwealth.com.au"
+        },
+        {
+            "Id": "d6e495b5-13ff-4f6b-98cd-a507752898ce",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/d6e495b5-13ff-4f6b-98cd-a507752898ce",
+            "Username": "phillip@netwealth.com.au"
+        },
+        {
+            "Id": "d6fdec5f-9959-47c2-804a-d5302059c5df",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/d6fdec5f-9959-47c2-804a-d5302059c5df",
+            "Username": "samrat.som@voicefoundry.com.au"
+        },
+        {
+            "Id": "ddb0860f-fb25-4093-81d8-f2776714b017",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/ddb0860f-fb25-4093-81d8-f2776714b017",
+            "Username": "lachlann@netwealth.com.au"
+        },
+        {
+            "Id": "defca685-4f55-4ad6-ae9f-bc12d75d6b33",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/defca685-4f55-4ad6-ae9f-bc12d75d6b33",
+            "Username": "joseph@netwealth.com.au"
+        },
+        {
+            "Id": "e24f4032-fe0b-4e0f-91c3-0c3c53a520f3",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/e24f4032-fe0b-4e0f-91c3-0c3c53a520f3",
+            "Username": "tanmeet@netwealth.com.au"
+        },
+        {
+            "Id": "e25d0928-0ff5-4efe-8522-1cd7504804ab",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/e25d0928-0ff5-4efe-8522-1cd7504804ab",
+            "Username": "omar@netwealth.com.au"
+        },
+        {
+            "Id": "e791d0c4-83be-441b-bf2d-ae2b9d910ebc",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/e791d0c4-83be-441b-bf2d-ae2b9d910ebc",
+            "Username": "boyanz@netwealth.com.au"
+        },
+        {
+            "Id": "ed8c1051-e50c-414d-bb42-4ca31c539820",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/ed8c1051-e50c-414d-bb42-4ca31c539820",
+            "Username": "katherine@netwealth.com.au"
+        },
+        {
+            "Id": "f06803aa-b1f8-4179-8636-1c1936aa3b09",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/f06803aa-b1f8-4179-8636-1c1936aa3b09",
+            "Username": "sofia@netwealth.com.au"
+        },
+        {
+            "Id": "f50f97e0-ce6f-417e-9691-e8ac8f2a047f",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/f50f97e0-ce6f-417e-9691-e8ac8f2a047f",
+            "Username": "dane@netwealth.com.au"
+        },
+        {
+            "Id": "f53e1554-f7d9-4334-9a7e-a8aa42f0e3fb",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/f53e1554-f7d9-4334-9a7e-a8aa42f0e3fb",
+            "Username": "karl@netwealth.com.au"
+        },
+        {
+            "Id": "f58d355f-328e-4d26-a776-08ce8bec6118",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/f58d355f-328e-4d26-a776-08ce8bec6118",
+            "Username": "tam@netwealth.com.au"
+        },
+        {
+            "Id": "fcc61e7b-c5aa-4cde-899a-8065fdbfe682",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/fcc61e7b-c5aa-4cde-899a-8065fdbfe682",
+            "Username": "tim@netwealth.com.au"
+        },
+        {
+            "Id": "fce29fe0-99e5-4525-9289-c11f9d4619c6",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/fce29fe0-99e5-4525-9289-c11f9d4619c6",
+            "Username": "elizabeth@netwealth.com.au"
+        },
+        {
+            "Id": "fe5a8fac-65e2-4b42-8127-421f727dfd3c",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/fe5a8fac-65e2-4b42-8127-421f727dfd3c",
+            "Username": "jannie@netwealth.com.au"
+        },
+        {
+            "Id": "fe69ffcc-d88d-4e2c-81aa-52bc911732d7",
+            "Arn": "arn:aws:connect:ap-southeast-2:856134723073:instance/d00c7c7c-ad92-47ee-b8a7-7d875d9122da/agent/fe69ffcc-d88d-4e2c-81aa-52bc911732d7",
+            "Username": "jackie@netwealth.com.au"
+        }
+    ]
+}
