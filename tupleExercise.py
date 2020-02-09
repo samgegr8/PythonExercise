@@ -23,3 +23,46 @@ for word in words:
 t.sort(reverse=True)
 for res, word in t:
     print(word)
+
+# Dictionary to Tuples
+d = {"a": 10, "b": 1, "c": 22}
+l = list()
+for key, val in d.items():
+    l.append((val, key))
+print(l)
+# sorting the list
+l.sort(reverse=True)
+print(l)
+
+# Sorting most common words in the text
+import re
+
+fopen = 1
+try:
+    fname = open("romeopunctuation.txt")
+except:
+    fopen = -1
+    print("File Cannot be Opened")
+if fopen < 0:
+    print("Some issue with the files")
+else:
+    counts = dict()
+    for fhand in fname:
+        fhand = fhand.lower()
+        fhand = re.sub("[^\w\s]", "", fhand)
+        words = fhand.split()
+        for word in words:
+            if word not in counts:
+                counts[word] = 1
+            else:
+                counts[word] += 1
+    lst = list()
+    for key, val in counts.items():
+        lst.append((val, key))
+
+    lst.sort(reverse=True)
+
+    print("Printing 10 most popular words")
+    for key, val in lst[:10]:
+        print(key, val)
+

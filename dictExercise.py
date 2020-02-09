@@ -66,6 +66,7 @@ else:
 print("Printing ignoring Punctuation and case sensitivity and printing in sorted order")
 lst1 = list(dic.keys())
 lst1.sort()
+lst2 = list()
 for key in lst1:
     print(key, dic[key])
 
