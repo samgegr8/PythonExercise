@@ -20,3 +20,13 @@ for item in info:
     print("id: ", item["id"])
     print("x: ", item["x"])
 
+## Examples from RealPython Serializing JSON
+
+data_realstring = {"president": {"name": "Narendra Modi", "species": "Homo Sapiens"}}
+with open("data_file.json", "w") as write_file:
+    json.dump(data_realstring, write_file, indent=4)
+
+json_string = json.dumps(data_realstring, indent=4)
+
+print("JSON Object ::", json_string)
+
