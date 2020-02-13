@@ -42,6 +42,7 @@ def keep(todo):
 
 
 with open("filtered_json_data.json", "w") as data_file:
+    ## Use of filter Method
     filtered_todos = list(filter(keep, todos))
     json.dump(filtered_todos, data_file, indent=2)
 
